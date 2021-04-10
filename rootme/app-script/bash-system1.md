@@ -14,7 +14,7 @@ int main(void)
 }
 
 ```
-With a `ll`, we can also see that we execute this script with the owner's rights, being 'app-script-ch11-cracked', the same owner as '.passwd'
+With a `ll`, we can also see that we execute this script with the owner's rights (the 's' instead of 'x' in owner's rights), being 'app-script-ch11-cracked', the same owner as '.passwd'
 ```bash
 app-script-ch11@challenge02:~$ ll
 -r-sr-x---  1 app-script-ch11-cracked app-script-ch11 7252 May 19  2019 ch11*
