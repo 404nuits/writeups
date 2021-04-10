@@ -23,7 +23,7 @@ Which means that everything being done in the script is executed "by the owner".
 
 But we don't want to `ls .passwd`, we want to see what's inside, by using `cat` for example.
 
-So we want to use `cat` istead of `ls` in the script.
+So we want to use `cat` instead of `ls` in the script.
 
 One way to do it is to copy the cat executable and rename it 'ls', then changing our `$PATH` to the directory that contains ou new cat executable.
 ```bash
