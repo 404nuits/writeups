@@ -2,7 +2,7 @@
 
 There was a bot on the discord server.
 I tried to do "!help" with a mp and got the list of the bot's commands.
-![img](https://i.imgur.com/8bDVZ1o.png[/img])
+![img](https://i.imgur.com/8bDVZ1o.png)[/img]
 [Screen of the bot's answer to !help]
 
 We can see that there is a command "!flag" so I tried and got :
