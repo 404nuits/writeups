@@ -2,7 +2,7 @@ Petit write-up pour le challenge Node Madness :
 
 On commence en accédant au chall avec ce lien : http://nodemadness.ctf.midnightflag.fr/.
 
-![Capture connexion](https://imgur.com/a/UWT0SId)
+![Capture connexion](https://i.imgur.com/a/UWT0SId)
 
 On arrive sur une page nous proposant un lien pour nous connecter. On choisit un username et un password au hasard (pas d'importance, j'ai choisi admin admin)
 
