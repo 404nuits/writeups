@@ -1,7 +1,7 @@
 # Cute Bot 
 
 There was a bot on the discord server.
-I tried to do "!help" with a mp and got the list of the bot's commands. \n
+I tried to do "!help" with a mp and got the list of the bot's commands. [\n]
 Screen of the bot's answer to !help :
 ![img](https://i.imgur.com/8bDVZ1o.png)
 
