@@ -19,6 +19,7 @@ On his profile page, we can see that he has a contact form, with a link to his g
 
 If we look a bit, we can see a **Preparation** subfolder in the **Hacking** folder 
 ![Screen preparation folder](https://i.imgur.com/yBBnB61.png)
+
 In this folder, there is a link to a pastebin with the note "For Archangel"
 ![For Archangel](https://i.imgur.com/s4dsicI.png)
 
