@@ -38,4 +38,3 @@ On a plus qu'a aller dans l'onglet /admin
 
 Et on obtient : 
 ![Capture page admin avec le flag](https://i.imgur.com/FYWLkR1.png)
-
