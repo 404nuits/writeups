@@ -5,6 +5,37 @@
 >
 > Accès au challenge : `nc ctf.midnightflag.fr 9000`
 
+
+Petite subtilité : Au bout d'un moment, les valeurs sont des nombres sous forme de mots.
+
+Script résolvant la première partie du challenge
+
+```python
+from pwn import *
+
+r = remote('ctf.midnightflag.fr',9000)
+
+r.sendline('yes')
+
+while True:
+    r.recvuntil('What is the result of ')
+
+    eq = r.recvline().decode().split(' ?')[0]
+
+    print(eq)
+
+    if len(eq) > 30:
+        input() # Vérif manuelle anti troll
+    
+    res = eval(eq)
+
+    print('->', res)
+
+    r.sendline(str(res))
+```
+
+Script résolvant le chall
+
 ```python
 from pwn import *
 from num2words import num2words
